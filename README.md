@@ -1,3 +1,3 @@
 # sn-projects
 My first repository
-Added sone comments on the new feature
+Added some comments on the new feature
